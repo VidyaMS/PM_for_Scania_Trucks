@@ -7,5 +7,5 @@ Our task is to classify this data to the best accuracy . It is an imbalanced dat
 $500 for every record that is supposed to be a 'failure' but predicted as 'non-failure'.  
 $10 for every record that is supposed to be a 'non-failure' but is predicted as 'failure'.  
 
-Direction for Analysis : Feature Reduction , Feature Selection , Model metric - least cost.  
+Direction for Analysis : Feature Reduction , Feature Selection , Model selection - based on least cost.  
 Future Work : Model optimization .  
